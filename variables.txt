@@ -1,0 +1,4 @@
+List of new variables and arrays added for SWAT-T:
+sos3
+sos4
+sos5
